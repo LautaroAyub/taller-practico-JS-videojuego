@@ -2,4 +2,4 @@
 GitPage:
 https://lautiayub.github.io/taller-practico-JS-videojuego/
 
-En este proyecto puse en practica la manipulacion del dom con JS, la manipulacion de arrays y el uso de local storage. Tambien practicar la lógica síncrona.
+En este proyecto puse en práctica la manipulación del dom con JS, la manipulación de arrays y el uso de Local Storage. Tambien puse en práctica la lógica síncrona.
