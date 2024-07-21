@@ -17,7 +17,7 @@ En este proyecto puse en práctica la manipulación del dom con JS, la manipulac
 
 
 \## 🌏 *Github Page*
-https://lautiayub.github.io/taller-practico-JS-videojuego/
+https://lautaroayub.github.io/taller-practico-JS-videojuego
 
 
 \## 🛠️ **Abre y ejecuta el proyecto**
